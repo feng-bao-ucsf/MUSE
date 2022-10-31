@@ -2,9 +2,10 @@
 
 ## Update diretions
 
-- >2 modalities
-- Various omics
+- more than 2 modalities
+- Various omics 
 - Various platform, e.g., Slide-Seq
+- Preprocessing pipelines
 
 MUSE is a deep learning approach characterizing tissue composition through combined analysis of morphologies and transcriptional states for spatially resolved transcriptomics data.
 
